@@ -1,4 +1,4 @@
-Dutch Grammar For English Learners
+Dutch Grammar For English Speakers
 ==================================
 These are my dutch grammar notes while I'm learning Dutch. I find it useful for others thus, I've created this repository. I hope that especially expats in Netherlands find this repository useful.
 
